@@ -23,7 +23,6 @@ Requirements
 Examples
 --------
 
-::
     >>> from fipe.vehicle import VehicleAPI
     >>> api = VehicleAPI()
     {0: 'Cars', 1: 'Motorbikes', 2: 'Trunks'}
